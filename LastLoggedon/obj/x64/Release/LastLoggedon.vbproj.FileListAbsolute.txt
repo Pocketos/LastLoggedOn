@@ -1,0 +1,10 @@
+C:\Users\Tyler\Source\Repos\LastLoggedOn\LastLoggedon\bin\x64\Release\LastLoggedon.exe.config
+C:\Users\Tyler\Source\Repos\LastLoggedOn\LastLoggedon\bin\x64\Release\LastLoggedon.exe
+C:\Users\Tyler\Source\Repos\LastLoggedOn\LastLoggedon\bin\x64\Release\LastLoggedon.pdb
+C:\Users\Tyler\Source\Repos\LastLoggedOn\LastLoggedon\bin\x64\Release\LastLoggedon.xml
+C:\Users\Tyler\Source\Repos\LastLoggedOn\LastLoggedon\obj\x64\Release\LastLoggedon.Form1.resources
+C:\Users\Tyler\Source\Repos\LastLoggedOn\LastLoggedon\obj\x64\Release\LastLoggedon.Resources.resources
+C:\Users\Tyler\Source\Repos\LastLoggedOn\LastLoggedon\obj\x64\Release\LastLoggedon.vbproj.GenerateResource.Cache
+C:\Users\Tyler\Source\Repos\LastLoggedOn\LastLoggedon\obj\x64\Release\LastLoggedon.exe
+C:\Users\Tyler\Source\Repos\LastLoggedOn\LastLoggedon\obj\x64\Release\LastLoggedon.xml
+C:\Users\Tyler\Source\Repos\LastLoggedOn\LastLoggedon\obj\x64\Release\LastLoggedon.pdb
