@@ -8,3 +8,4 @@ C:\Users\Tyler\Source\Repos\LastLoggedOn\LastLoggedon\obj\x64\Debug\LastLoggedon
 C:\Users\Tyler\Source\Repos\LastLoggedOn\LastLoggedon\obj\x64\Debug\LastLoggedon.exe
 C:\Users\Tyler\Source\Repos\LastLoggedOn\LastLoggedon\obj\x64\Debug\LastLoggedon.xml
 C:\Users\Tyler\Source\Repos\LastLoggedOn\LastLoggedon\obj\x64\Debug\LastLoggedon.pdb
+C:\Users\Tyler\Source\Repos\LastLoggedOn\LastLoggedon\obj\x64\Debug\LastLoggedon.vbprojResolveAssemblyReference.cache
